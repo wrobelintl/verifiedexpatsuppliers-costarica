@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://costarica.verifiedexpatsuppliers.com/sitemap.xml
